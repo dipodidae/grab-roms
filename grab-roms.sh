@@ -1,6 +1,6 @@
 #!/bin/bash
 provider="https://myrient.erista.me/files/"
-destination="./roms"
+destination="/mnt/external-hard-drive/share/roms"
 
 declare -A systems=(
     ["nes"]="No-Intro/Nintendo%20-%20Nintendo%20Entertainment%20System%20%28Headered%29/"
